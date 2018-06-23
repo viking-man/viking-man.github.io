@@ -3,20 +3,44 @@
   
     
     <entry>
-      <title>Test Blog</title>
-      <link href="/2018/06/19/Test-Blog/"/>
-      <url>/2018/06/19/Test-Blog/</url>
-      <content type="html"><![CDATA[<h1 id="博客测试"><a href="#博客测试" class="headerlink" title="博客测试"></a>博客测试</h1><p>@(示例)[1|2|3]</p><p><strong>c测试</strong></p><p>[客户端]</p>]]></content>
+      <title>C++学习</title>
+      <link href="/2018/06/23/C-%E5%AD%A6%E4%B9%A0/"/>
+      <url>/2018/06/23/C-%E5%AD%A6%E4%B9%A0/</url>
+      <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>​    为了研究一下bitcoin的原理，为自己用java实现区块链作准备。</p><h3 id="C-语法"><a href="#C-语法" class="headerlink" title="C++语法"></a>C++语法</h3>]]></content>
       
+      <categories>
+          
+          <category> learning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> learning </tag>
+            
+        </tags>
       
     </entry>
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2018/06/19/hello-world/"/>
-      <url>/2018/06/19/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      <title>关于对机器学习的思考</title>
+      <link href="/2018/06/23/%E5%85%B3%E4%BA%8E%E5%AF%B9%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%80%9D%E8%80%83/"/>
+      <url>/2018/06/23/%E5%85%B3%E4%BA%8E%E5%AF%B9%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%80%9D%E8%80%83/</url>
+      <content type="html"><![CDATA[<h3 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h3><p>机器学习可以创造未来，拥抱变化吧。</p><p><img src="/2018/06/23/关于对机器学习的思考/brain.jpeg" alt="brain"></p><a id="more"></a><p>科技的进步具有一定的偶然性。因为载体是人，每个人的生长环境不同，环境感知与经验积累不同，这些构成不同的人。而世界万物的内在规律也各有不同，发现内在规律的过程其实是一个不断试错的过程，而某些人可能对某种领域具有较强的感知能力。这是由人的不同经验积累所沉淀形成的，这也是机器学习可以代替的部分。所有可以通过重复不同子元素试错而得到的内在规律都可以由机器学习替代，人类所需要做的是提出创造性思维与想法。甚至机器学习进一步可以自己形成创造性思维并自我验证。</p><p>这是更深一层的假设，目前的深度学习可以形成的是通过某一应用细分支数据堆叠，形成这一分支的“应答器”，还需要做两方面的工作。一方面需要建立多个分支的“应答器”，这是一个平行积累量变的问题，需要各个细分领域的专家参与。另一方面需要将多个细分领域的“应答器”结果起来，通过加权的方式统筹结果，形成更大领域的“应答器”。</p><p>重复上述工作，直到可以进行某一课题的研究，一旦进行到这一步，将是机器学习推动技术爆炸的时候。以后的工作只剩理论的进步，重复性科研试错以及平行探索都不再需要投入太大的经历。只需要在高度上的提高。</p><p>再进一步，可以通过堆叠不同环境参数形成不同侧重点的“应答器”，模拟不同人对相同境遇的不同反应，并建立相关课题的模拟环境与结构，尝试机器学习在理论上的自我创造。</p>]]></content>
       
+      <categories>
+          
+          <category> thinking </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> thinking </tag>
+            
+        </tags>
       
     </entry>
     
