@@ -3,10 +3,31 @@
   
     
     <entry>
+      <title>Class类文件的结构</title>
+      <link href="/2018/07/10/Class%E7%B1%BB%E6%96%87%E4%BB%B6%E7%9A%84%E7%BB%93%E6%9E%84/"/>
+      <url>/2018/07/10/Class%E7%B1%BB%E6%96%87%E4%BB%B6%E7%9A%84%E7%BB%93%E6%9E%84/</url>
+      <content type="html"><![CDATA[<p>###Class类文件的结构</p><blockquote><p>Class文件是一组以8位字节为基础单位的二进制流，各个数据项目严格按照顺序紧凑地排列在Class文件之中，只有两种数据类型：无符号数和表。</p></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> learning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> learning </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>love</title>
       <link href="/2018/07/10/love/"/>
       <url>/2018/07/10/love/</url>
-      <content type="html"><![CDATA[<blockquote><p>A sad voice has a nest among ruins of years,it sings to me in the night:”I loved you”.</p></blockquote><blockquote><p>Although for my little lamp unlit in my house, I has starts in the sky.</p></blockquote>]]></content>
+      <content type="html"><![CDATA[<blockquote><p>A sad voice has a nest among ruins of years,it sings to me in the night:”I loved you”.</p></blockquote><blockquote><p>Although for my little lamp unlit in my house, I has stars in the sky.</p></blockquote><blockquote><p>The sadness of my soul is her bride’s veil,it waits to be lifed in the night.</p></blockquote>]]></content>
       
       <categories>
           
