@@ -1,1 +1,1 @@
-#[个人博客](viking-man.github.io)
+[个人博客](viking-man.github.io)
