@@ -1,1 +1,2 @@
-[个人博客](viking-man.github.io)
+[[viking-man.github.io](https://viking-man.github.io/)https://viking-man.github.io/
+](https://viking-man.github.io/)https://viking-man.github.io/
